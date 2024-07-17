@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "878a",
+      "title": "sddhi",
+      "author": "ewgeg",
+      "genre": "weegweg",
+      "year": "4444",
+      "Photo": "sjdbkjvsdv"
+    },
+    {
+      "id": "c238",
+      "f_name": "skdhvjkbdcj",
+      "l_name": "kkjj",
+      "roll_n": "100",
+      "phone_n": "984555",
+      "year": "463210"
+    },
+    {
+      "id": "a46e",
+      "f_name": "har",
+      "l_name": "dik",
+      "roll_n": "11",
+      "phone_n": "2000",
+      "year": "3000"
+    }
+  ]
+}
